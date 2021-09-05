@@ -1,5 +1,5 @@
 //prerfect Number
-//sum of factors of a given number is equal to the number is called perfect number
+//sum of factors of a given number is equal to the number is called perfect number.
 #include<stdio.h>
 #include<conio.h>
 void main()
@@ -20,3 +20,4 @@ void main()
     else
     printf("Its not a perfect number");
 }
+
